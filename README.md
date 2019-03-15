@@ -1,9 +1,9 @@
 
 
-#Library Management System
+# Library Management System
 Spring mvc boot jpa rest library management project
 
-##Functionality
+## Functionality
 Completed the CRUD operation on using JPA.
 
 RESTful endpoints working using id.
